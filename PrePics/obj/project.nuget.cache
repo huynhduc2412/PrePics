@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dSpdeFnlL0cnMBDG9ZCSWstYX6MWlGLgaR4rbIjgeX4v35heA2uPTJVUItxmxe8zIo+P0inmnUOEqbu7Sbvsow==",
+  "dgSpecHash": "OdJiRgkH4zvJCq1oSN76SVvblP+1kq59ko793JY7WQZBqu4W0k/IbgDuxbNt/KhkHpzJjq3U6Aoxur9c//JsaA==",
   "success": true,
-  "projectFilePath": "E:\\code\\PrePics\\PrePics\\PrePics.csproj",
+  "projectFilePath": "D:\\PrePics\\PrePics\\PrePics.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

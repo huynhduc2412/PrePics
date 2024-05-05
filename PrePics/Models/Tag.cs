@@ -13,5 +13,6 @@ public class Tag
     [Column("Title")]
     public string title { get; set; }
     
+    public bool isDeleted { get; set; }
     public virtual ICollection<GotTag> gotTags { get; set; }
 }

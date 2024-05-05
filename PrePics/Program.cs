@@ -1,11 +1,22 @@
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using PrePics.Models;
 
 var builder = WebApplication.CreateBuilder(args);
+
 builder.Services.AddDbContext<PrePicsDbContext>(db => db.UseSqlServer(builder.Configuration.GetConnectionString("PrePicsDBContextConnection")), ServiceLifetime.Singleton);
+
+
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+
+builder.Services.AddIdentity<User, IdentityRole>()
+    .AddDefaultTokenProviders()
+    .AddDefaultUI()
+    .AddEntityFrameworkStores<PrePicsDbContext>();
+
 
 builder.Services.AddRazorPages();
 

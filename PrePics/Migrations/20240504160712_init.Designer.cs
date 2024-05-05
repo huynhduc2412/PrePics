@@ -12,8 +12,8 @@ using PrePics.Models;
 namespace PrePics.Migrations
 {
     [DbContext(typeof(PrePicsDbContext))]
-    [Migration("20240426190326_Initial")]
-    partial class Initial
+    [Migration("20240504160712_init")]
+    partial class init
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
