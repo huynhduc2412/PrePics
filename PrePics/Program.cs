@@ -7,7 +7,6 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<PrePicsDbContext>(db => db.UseSqlServer(builder.Configuration.GetConnectionString("PrePicsDBContextConnection")), ServiceLifetime.Singleton);
 
 
-
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
@@ -17,7 +16,7 @@ builder.Services.AddIdentity<User, IdentityRole>()
     .AddDefaultUI()
     .AddEntityFrameworkStores<PrePicsDbContext>();
 
-
+builder.Services.AddHttpContextAccessor();
 builder.Services.AddRazorPages();
 
 var app = builder.Build();
@@ -35,6 +34,7 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllerRoute(

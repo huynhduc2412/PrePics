@@ -857,3 +857,12 @@ D:\PrePics\PrePics\obj\Debug\net8.0\refint\PrePics.dll
 D:\PrePics\PrePics\obj\Debug\net8.0\PrePics.pdb
 D:\PrePics\PrePics\obj\Debug\net8.0\PrePics.genruntimeconfig.cache
 D:\PrePics\PrePics\obj\Debug\net8.0\ref\PrePics.dll
+D:\PrePics\PrePics\bin\Debug\net8.0\Google.Apis.dll
+D:\PrePics\PrePics\bin\Debug\net8.0\Google.Apis.Auth.dll
+D:\PrePics\PrePics\bin\Debug\net8.0\Google.Apis.Auth.AspNetCore3.dll
+D:\PrePics\PrePics\bin\Debug\net8.0\Google.Apis.Core.dll
+D:\PrePics\PrePics\bin\Debug\net8.0\Google.Apis.Drive.v3.dll
+D:\PrePics\PrePics\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\PrePics\PrePics\bin\Debug\net8.0\System.Management.dll
+D:\PrePics\PrePics\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+D:\PrePics\PrePics\bin\Debug\net8.0\Credentials.json

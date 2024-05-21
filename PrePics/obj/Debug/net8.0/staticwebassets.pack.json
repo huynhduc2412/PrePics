@@ -409,6 +409,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\PrePics\\PrePics\\wwwroot\\images\\Nitro_Wallpaper_5000x2813.jpg",
+      "PackagePath": "staticwebassets\\images\\Nitro_Wallpaper_5000x2813.jpg"
+    },
+    {
+      "Id": "D:\\PrePics\\PrePics\\wwwroot\\images\\Planet9_Wallpaper_5000x2813.jpg",
+      "PackagePath": "staticwebassets\\images\\Planet9_Wallpaper_5000x2813.jpg"
+    },
+    {
       "Id": "D:\\PrePics\\PrePics\\wwwroot\\js\\script.js",
       "PackagePath": "staticwebassets\\js\\script.js"
     },

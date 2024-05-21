@@ -1,0 +1,65 @@
+﻿
+@* @{
+    ViewData["Title"] = "Get File";
+    Layout = null;
+} 
+<h1>Upload Image</h1>
+
+<form asp-action="Index" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label for="file">Select a file:</label>
+        <input type="file" name="file" id="file" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Upload</button>
+</form> *@
+@* @model IList<Google.Apis.Drive.v3.Data.File>
+
+@{
+    ViewData["Title"] = "Google Drive Images";
+    Layout = null;
+}
+
+<h1>Google Drive Images</h1>
+
+<div class="row">
+    @foreach (var file in Model)
+    {
+        <div class="col-md-3">
+            <div class="card mb-4 shadow-sm">
+                <img src="@file.ThumbnailLink" class="card-img-top" alt="@file.Name">
+                <div class="card-body">
+                    <p class="card-text">@file.Name</p>
+                    <div class="d-flex justify-content-between align-items-center">
+                        <a href="https://drive.google.com/uc?export=view&id=@file.Id" target="_blank" class="btn btn-sm btn-outline-secondary">View</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div> *@
+@* @{
+    Layout = null;
+}
+<form id="uploadForm" enctype="multipart/form-data">
+    <input type="file" id="fileInput" accept="image/*" />
+    <br />
+    <img id="previewImage" src="#" alt="Preview Image" style="display:none; max-width: 200px;" />
+</form>
+<script>
+    document.getElementById('fileInput').addEventListener('change', function (event) {
+        const file = event.target.files[0];
+        if (file) {
+            const reader = new FileReader();
+            reader.onload = function (e) {
+                const previewImage = document.getElementById('previewImage');
+                previewImage.src = e.target.result;
+                previewImage.style.display = 'block';
+            };
+            reader.readAsDataURL(file);
+        }
+    });
+</script> *@
+
+
+
+

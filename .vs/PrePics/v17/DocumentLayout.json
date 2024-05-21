@@ -3,68 +3,56 @@
   "WorkspaceRootPath": "D:\\PrePics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\repositories\\efincollectionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\repositories\\efincollectionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\repositories\\efcollectionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\repositories\\efcollectionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\models\\gottag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\models\\gottag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\models\\incollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\models\\incollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\repositories\\iincollectionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\repositories\\iincollectionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\repositories\\icollectionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\repositories\\icollectionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\models\\collection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\models\\collection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\views\\drive\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\views\\drive\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\models\\gallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\models\\gallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\repositories\\igalleryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\repositories\\igalleryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\repositories\\itagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\repositories\\itagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\repositories\\efgalleryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\repositories\\efgalleryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\repositories\\eftagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\repositories\\eftagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\repositories\\efuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\repositories\\efuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\models\\collection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\models\\collection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\models\\gottag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\models\\gottag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\repositories\\driverhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\repositories\\driverhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\controllers\\drivecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\controllers\\drivecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\credentials.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\credentials.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -79,8 +67,64 @@
       "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\repositories\\efcollectionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\repositories\\efcollectionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\viewmodel\\fileuploadviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\viewmodel\\fileuploadviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\models\\incollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\models\\incollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\repositories\\icollectionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\repositories\\icollectionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\repositories\\efincollectionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\repositories\\efincollectionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\repositories\\iincollectionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\repositories\\iincollectionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\repositories\\igalleryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\repositories\\igalleryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\repositories\\efgalleryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\repositories\\efgalleryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\repositories\\eftagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\repositories\\eftagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\repositories\\itagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\repositories\\itagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\repositories\\efuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\repositories\\efuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\views\\home\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -95,18 +139,6 @@
       "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\views\\home\\gallery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\views\\home\\gallery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -115,28 +147,20 @@
       "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\areas\\identity\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\areas\\identity\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -147,12 +171,12 @@
       "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\wwwroot\\css\\sigin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\wwwroot\\css\\sigin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -167,28 +191,20 @@
       "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\migrations\\20240504160712_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\migrations\\20240504160712_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\migrations\\20240504160712_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\migrations\\20240504160712_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\wwwroot\\css\\signup.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -197,10 +213,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\prepics.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\prepics.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|d:\\prepics\\prepics\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{8F09F51A-6DFF-4C1A-8A1A-92AB66F28B0E}|PrePics\\PrePics.csproj|solutionrelative:prepics\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -210,7 +222,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -250,98 +262,68 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DriverHelper.cs",
+              "DocumentMoniker": "D:\\PrePics\\PrePics\\Repositories\\DriverHelper.cs",
+              "RelativeDocumentMoniker": "PrePics\\Repositories\\DriverHelper.cs",
+              "ToolTip": "D:\\PrePics\\PrePics\\Repositories\\DriverHelper.cs",
+              "RelativeToolTip": "PrePics\\Repositories\\DriverHelper.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAYwEkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T20:07:16.385Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EFIncollectionRepository.cs",
-              "DocumentMoniker": "D:\\PrePics\\PrePics\\Repositories\\EFIncollectionRepository.cs",
-              "RelativeDocumentMoniker": "PrePics\\Repositories\\EFIncollectionRepository.cs",
-              "ToolTip": "D:\\PrePics\\PrePics\\Repositories\\EFIncollectionRepository.cs",
-              "RelativeToolTip": "PrePics\\Repositories\\EFIncollectionRepository.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAkwCYAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T14:52:55.728Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IInCollectionRepository.cs",
-              "DocumentMoniker": "D:\\PrePics\\PrePics\\Repositories\\IInCollectionRepository.cs",
-              "RelativeDocumentMoniker": "PrePics\\Repositories\\IInCollectionRepository.cs",
-              "ToolTip": "D:\\PrePics\\PrePics\\Repositories\\IInCollectionRepository.cs",
-              "RelativeToolTip": "PrePics\\Repositories\\IInCollectionRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T14:51:57.374Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EFCollectionRepository.cs",
-              "DocumentMoniker": "D:\\PrePics\\PrePics\\Repositories\\EFCollectionRepository.cs",
-              "RelativeDocumentMoniker": "PrePics\\Repositories\\EFCollectionRepository.cs",
-              "ToolTip": "D:\\PrePics\\PrePics\\Repositories\\EFCollectionRepository.cs",
-              "RelativeToolTip": "PrePics\\Repositories\\EFCollectionRepository.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAA1wBUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T14:48:47.383Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ICollectionRepository.cs",
-              "DocumentMoniker": "D:\\PrePics\\PrePics\\Repositories\\ICollectionRepository.cs",
-              "RelativeDocumentMoniker": "PrePics\\Repositories\\ICollectionRepository.cs",
-              "ToolTip": "D:\\PrePics\\PrePics\\Repositories\\ICollectionRepository.cs",
-              "RelativeToolTip": "PrePics\\Repositories\\ICollectionRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T14:47:57.751Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PrePics\\PrePics\\Views\\Drive\\Index.cshtml",
+              "RelativeDocumentMoniker": "PrePics\\Views\\Drive\\Index.cshtml",
+              "ToolTip": "D:\\PrePics\\PrePics\\Views\\Drive\\Index.cshtml",
+              "RelativeToolTip": "PrePics\\Views\\Drive\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T20:10:15.921Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Gallery.cs",
-              "DocumentMoniker": "D:\\PrePics\\PrePics\\Models\\Gallery.cs",
-              "RelativeDocumentMoniker": "PrePics\\Models\\Gallery.cs",
-              "ToolTip": "D:\\PrePics\\PrePics\\Models\\Gallery.cs",
-              "RelativeToolTip": "PrePics\\Models\\Gallery.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAswCgAAAAZAAAA",
+              "Title": "DriveController.cs",
+              "DocumentMoniker": "D:\\PrePics\\PrePics\\Controllers\\DriveController.cs",
+              "RelativeDocumentMoniker": "PrePics\\Controllers\\DriveController.cs",
+              "ToolTip": "D:\\PrePics\\PrePics\\Controllers\\DriveController.cs",
+              "RelativeToolTip": "PrePics\\Controllers\\DriveController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T17:42:03.132Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-17T20:09:32.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "script.js",
+              "DocumentMoniker": "D:\\PrePics\\PrePics\\wwwroot\\js\\script.js",
+              "RelativeDocumentMoniker": "PrePics\\wwwroot\\js\\script.js",
+              "ToolTip": "D:\\PrePics\\PrePics\\wwwroot\\js\\script.js",
+              "RelativeToolTip": "PrePics\\wwwroot\\js\\script.js",
+              "ViewState": "AQIAADIAAAAAAAAAAAAwwEIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-25T05:58:58.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\PrePics\\PrePics\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PrePics\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\PrePics\\PrePics\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PrePics\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T05:56:22.27Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "InCollection.cs",
-              "DocumentMoniker": "D:\\PrePics\\PrePics\\Models\\InCollection.cs",
-              "RelativeDocumentMoniker": "PrePics\\Models\\InCollection.cs",
-              "ToolTip": "D:\\PrePics\\PrePics\\Models\\InCollection.cs",
-              "RelativeToolTip": "PrePics\\Models\\InCollection.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T14:28:31.901Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "D:\\PrePics\\PrePics\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "PrePics\\Models\\ErrorViewModel.cs",
-              "ToolTip": "D:\\PrePics\\PrePics\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "PrePics\\Models\\ErrorViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T17:42:09.987Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "GotTag.cs",
               "DocumentMoniker": "D:\\PrePics\\PrePics\\Models\\GotTag.cs",
               "RelativeDocumentMoniker": "PrePics\\Models\\GotTag.cs",
@@ -349,64 +331,23 @@
               "RelativeToolTip": "PrePics\\Models\\GotTag.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T17:26:38.323Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-04T17:26:38.323Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IGalleryRepository.cs",
-              "DocumentMoniker": "D:\\PrePics\\PrePics\\Repositories\\IGalleryRepository.cs",
-              "RelativeDocumentMoniker": "PrePics\\Repositories\\IGalleryRepository.cs",
-              "ToolTip": "D:\\PrePics\\PrePics\\Repositories\\IGalleryRepository.cs",
-              "RelativeToolTip": "PrePics\\Repositories\\IGalleryRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "DocumentIndex": 2,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "D:\\PrePics\\PrePics\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "PrePics\\Models\\Tag.cs",
+              "ToolTip": "D:\\PrePics\\PrePics\\Models\\Tag.cs",
+              "RelativeToolTip": "PrePics\\Models\\Tag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T14:29:25.652Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-04T17:25:29.594Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "EFGalleryRepository.cs",
-              "DocumentMoniker": "D:\\PrePics\\PrePics\\Repositories\\EFGalleryRepository.cs",
-              "RelativeDocumentMoniker": "PrePics\\Repositories\\EFGalleryRepository.cs",
-              "ToolTip": "D:\\PrePics\\PrePics\\Repositories\\EFGalleryRepository.cs",
-              "RelativeToolTip": "PrePics\\Repositories\\EFGalleryRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T14:31:14.759Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "EFTagRepository.cs",
-              "DocumentMoniker": "D:\\PrePics\\PrePics\\Repositories\\EFTagRepository.cs",
-              "RelativeDocumentMoniker": "PrePics\\Repositories\\EFTagRepository.cs",
-              "ToolTip": "D:\\PrePics\\PrePics\\Repositories\\EFTagRepository.cs",
-              "RelativeToolTip": "PrePics\\Repositories\\EFTagRepository.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAwB8AAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T17:32:02.99Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ITagRepository.cs",
-              "DocumentMoniker": "D:\\PrePics\\PrePics\\Repositories\\ITagRepository.cs",
-              "RelativeDocumentMoniker": "PrePics\\Repositories\\ITagRepository.cs",
-              "ToolTip": "D:\\PrePics\\PrePics\\Repositories\\ITagRepository.cs",
-              "RelativeToolTip": "PrePics\\Repositories\\ITagRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T17:26:07.465Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "Collection.cs",
               "DocumentMoniker": "D:\\PrePics\\PrePics\\Models\\Collection.cs",
               "RelativeDocumentMoniker": "PrePics\\Models\\Collection.cs",
@@ -414,77 +355,107 @@
               "RelativeToolTip": "PrePics\\Models\\Collection.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAqwBkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T15:54:15.747Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-04T15:54:15.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Gallery.cs",
+              "DocumentMoniker": "D:\\PrePics\\PrePics\\Models\\Gallery.cs",
+              "RelativeDocumentMoniker": "PrePics\\Models\\Gallery.cs",
+              "ToolTip": "D:\\PrePics\\PrePics\\Models\\Gallery.cs",
+              "RelativeToolTip": "PrePics\\Models\\Gallery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T17:42:03.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PrePics\\PrePics\\Program.cs",
+              "RelativeDocumentMoniker": "PrePics\\Program.cs",
+              "ToolTip": "D:\\PrePics\\PrePics\\Program.cs",
+              "RelativeToolTip": "PrePics\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T05:45:57.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\PrePics\\PrePics\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "PrePics\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\PrePics\\PrePics\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "PrePics\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T15:58:48.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Credentials.json",
+              "DocumentMoniker": "D:\\PrePics\\PrePics\\Credentials.json",
+              "RelativeDocumentMoniker": "PrePics\\Credentials.json",
+              "ToolTip": "D:\\PrePics\\PrePics\\Credentials.json",
+              "RelativeToolTip": "PrePics\\Credentials.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-18T06:34:59.928Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "EFUserRepository.cs",
-              "DocumentMoniker": "D:\\PrePics\\PrePics\\Repositories\\EFUserRepository.cs",
-              "RelativeDocumentMoniker": "PrePics\\Repositories\\EFUserRepository.cs",
-              "ToolTip": "D:\\PrePics\\PrePics\\Repositories\\EFUserRepository.cs",
-              "RelativeToolTip": "PrePics\\Repositories\\EFUserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T17:19:36.668Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "D:\\PrePics\\PrePics\\Repositories\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "PrePics\\Repositories\\IUserRepository.cs",
-              "ToolTip": "D:\\PrePics\\PrePics\\Repositories\\IUserRepository.cs",
-              "RelativeToolTip": "PrePics\\Repositories\\IUserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T17:18:44.38Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Tag.cs",
-              "DocumentMoniker": "D:\\PrePics\\PrePics\\Models\\Tag.cs",
-              "RelativeDocumentMoniker": "PrePics\\Models\\Tag.cs",
-              "ToolTip": "D:\\PrePics\\PrePics\\Models\\Tag.cs",
-              "RelativeToolTip": "PrePics\\Models\\Tag.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T17:25:29.594Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
               "Title": "Register.cshtml",
               "DocumentMoniker": "D:\\PrePics\\PrePics\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "PrePics\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "ToolTip": "D:\\PrePics\\PrePics\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeToolTip": "PrePics\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-25T06:04:09.269Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T06:04:09.269Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\PrePics\\PrePics\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PrePics\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\PrePics\\PrePics\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PrePics\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T17:57:46.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PrePics\\PrePics\\appsettings.json",
+              "RelativeDocumentMoniker": "PrePics\\appsettings.json",
+              "ToolTip": "D:\\PrePics\\PrePics\\appsettings.json",
+              "RelativeToolTip": "PrePics\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-04T15:50:08.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Login.cshtml",
               "DocumentMoniker": "D:\\PrePics\\PrePics\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "PrePics\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "ToolTip": "D:\\PrePics\\PrePics\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "RelativeToolTip": "PrePics\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-25T05:55:27.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T05:55:27.47Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 15,
               "Title": "Logout.cshtml",
               "DocumentMoniker": "D:\\PrePics\\PrePics\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
               "RelativeDocumentMoniker": "PrePics\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
@@ -492,25 +463,179 @@
               "RelativeToolTip": "PrePics\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-25T06:03:52.903Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T06:03:52.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EFCollectionRepository.cs",
+              "DocumentMoniker": "D:\\PrePics\\PrePics\\Repositories\\EFCollectionRepository.cs",
+              "RelativeDocumentMoniker": "PrePics\\Repositories\\EFCollectionRepository.cs",
+              "ToolTip": "D:\\PrePics\\PrePics\\Repositories\\EFCollectionRepository.cs",
+              "RelativeToolTip": "PrePics\\Repositories\\EFCollectionRepository.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAswBYAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T14:48:47.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "about.cshtml",
+              "DocumentMoniker": "D:\\PrePics\\PrePics\\Views\\Home\\about.cshtml",
+              "RelativeDocumentMoniker": "PrePics\\Views\\Home\\about.cshtml",
+              "ToolTip": "D:\\PrePics\\PrePics\\Views\\Home\\about.cshtml",
+              "RelativeToolTip": "PrePics\\Views\\Home\\about.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T17:53:34.562Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "ForgotPassword.cshtml",
-              "DocumentMoniker": "D:\\PrePics\\PrePics\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
-              "RelativeDocumentMoniker": "PrePics\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
-              "ToolTip": "D:\\PrePics\\PrePics\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
-              "RelativeToolTip": "PrePics\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-04T16:32:43.636Z",
-              "EditorCaption": ""
+              "Title": "FileUploadViewModel.cs",
+              "DocumentMoniker": "D:\\PrePics\\PrePics\\ViewModel\\FileUploadViewModel.cs",
+              "RelativeDocumentMoniker": "PrePics\\ViewModel\\FileUploadViewModel.cs",
+              "ToolTip": "D:\\PrePics\\PrePics\\ViewModel\\FileUploadViewModel.cs",
+              "RelativeToolTip": "PrePics\\ViewModel\\FileUploadViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T17:57:31.515Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
+              "Title": "InCollection.cs",
+              "DocumentMoniker": "D:\\PrePics\\PrePics\\Models\\InCollection.cs",
+              "RelativeDocumentMoniker": "PrePics\\Models\\InCollection.cs",
+              "ToolTip": "D:\\PrePics\\PrePics\\Models\\InCollection.cs",
+              "RelativeToolTip": "PrePics\\Models\\InCollection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T14:28:31.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ICollectionRepository.cs",
+              "DocumentMoniker": "D:\\PrePics\\PrePics\\Repositories\\ICollectionRepository.cs",
+              "RelativeDocumentMoniker": "PrePics\\Repositories\\ICollectionRepository.cs",
+              "ToolTip": "D:\\PrePics\\PrePics\\Repositories\\ICollectionRepository.cs",
+              "RelativeToolTip": "PrePics\\Repositories\\ICollectionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T14:47:57.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EFIncollectionRepository.cs",
+              "DocumentMoniker": "D:\\PrePics\\PrePics\\Repositories\\EFIncollectionRepository.cs",
+              "RelativeDocumentMoniker": "PrePics\\Repositories\\EFIncollectionRepository.cs",
+              "ToolTip": "D:\\PrePics\\PrePics\\Repositories\\EFIncollectionRepository.cs",
+              "RelativeToolTip": "PrePics\\Repositories\\EFIncollectionRepository.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAkwCYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T14:52:55.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IInCollectionRepository.cs",
+              "DocumentMoniker": "D:\\PrePics\\PrePics\\Repositories\\IInCollectionRepository.cs",
+              "RelativeDocumentMoniker": "PrePics\\Repositories\\IInCollectionRepository.cs",
+              "ToolTip": "D:\\PrePics\\PrePics\\Repositories\\IInCollectionRepository.cs",
+              "RelativeToolTip": "PrePics\\Repositories\\IInCollectionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T14:51:57.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\PrePics\\PrePics\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "PrePics\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\PrePics\\PrePics\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "PrePics\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T17:42:09.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IGalleryRepository.cs",
+              "DocumentMoniker": "D:\\PrePics\\PrePics\\Repositories\\IGalleryRepository.cs",
+              "RelativeDocumentMoniker": "PrePics\\Repositories\\IGalleryRepository.cs",
+              "ToolTip": "D:\\PrePics\\PrePics\\Repositories\\IGalleryRepository.cs",
+              "RelativeToolTip": "PrePics\\Repositories\\IGalleryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T14:29:25.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EFGalleryRepository.cs",
+              "DocumentMoniker": "D:\\PrePics\\PrePics\\Repositories\\EFGalleryRepository.cs",
+              "RelativeDocumentMoniker": "PrePics\\Repositories\\EFGalleryRepository.cs",
+              "ToolTip": "D:\\PrePics\\PrePics\\Repositories\\EFGalleryRepository.cs",
+              "RelativeToolTip": "PrePics\\Repositories\\EFGalleryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T14:31:14.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EFTagRepository.cs",
+              "DocumentMoniker": "D:\\PrePics\\PrePics\\Repositories\\EFTagRepository.cs",
+              "RelativeDocumentMoniker": "PrePics\\Repositories\\EFTagRepository.cs",
+              "ToolTip": "D:\\PrePics\\PrePics\\Repositories\\EFTagRepository.cs",
+              "RelativeToolTip": "PrePics\\Repositories\\EFTagRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwB8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T17:32:02.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ITagRepository.cs",
+              "DocumentMoniker": "D:\\PrePics\\PrePics\\Repositories\\ITagRepository.cs",
+              "RelativeDocumentMoniker": "PrePics\\Repositories\\ITagRepository.cs",
+              "ToolTip": "D:\\PrePics\\PrePics\\Repositories\\ITagRepository.cs",
+              "RelativeToolTip": "PrePics\\Repositories\\ITagRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T17:26:07.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EFUserRepository.cs",
+              "DocumentMoniker": "D:\\PrePics\\PrePics\\Repositories\\EFUserRepository.cs",
+              "RelativeDocumentMoniker": "PrePics\\Repositories\\EFUserRepository.cs",
+              "ToolTip": "D:\\PrePics\\PrePics\\Repositories\\EFUserRepository.cs",
+              "RelativeToolTip": "PrePics\\Repositories\\EFUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T17:19:36.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\PrePics\\PrePics\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "PrePics\\Repositories\\IUserRepository.cs",
+              "ToolTip": "D:\\PrePics\\PrePics\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "PrePics\\Repositories\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T17:18:44.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
               "Title": "services.cshtml",
               "DocumentMoniker": "D:\\PrePics\\PrePics\\Views\\Home\\services.cshtml",
               "RelativeDocumentMoniker": "PrePics\\Views\\Home\\services.cshtml",
@@ -518,12 +643,11 @@
               "RelativeToolTip": "PrePics\\Views\\Home\\services.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-04T17:10:57.243Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-04T17:10:57.243Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 32,
               "Title": "gallerysingle.cshtml",
               "DocumentMoniker": "D:\\PrePics\\PrePics\\Views\\Home\\gallerysingle.cshtml",
               "RelativeDocumentMoniker": "PrePics\\Views\\Home\\gallerysingle.cshtml",
@@ -535,31 +659,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 33,
               "Title": "contact.cshtml",
               "DocumentMoniker": "D:\\PrePics\\PrePics\\Views\\Home\\contact.cshtml",
               "RelativeDocumentMoniker": "PrePics\\Views\\Home\\contact.cshtml",
               "ToolTip": "D:\\PrePics\\PrePics\\Views\\Home\\contact.cshtml",
               "RelativeToolTip": "PrePics\\Views\\Home\\contact.cshtml",
-              "ViewState": "AQIAADwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAADYAAAAAAAAAAIBZwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-04T17:11:28.771Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "about.cshtml",
-              "DocumentMoniker": "D:\\PrePics\\PrePics\\Views\\Home\\about.cshtml",
-              "RelativeDocumentMoniker": "PrePics\\Views\\Home\\about.cshtml",
-              "ToolTip": "D:\\PrePics\\PrePics\\Views\\Home\\about.cshtml",
-              "RelativeToolTip": "PrePics\\Views\\Home\\about.cshtml",
-              "ViewState": "AQIAAJ8AAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-04T17:53:34.562Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 34,
               "Title": "gallery.cshtml",
               "DocumentMoniker": "D:\\PrePics\\PrePics\\Views\\Home\\gallery.cshtml",
               "RelativeDocumentMoniker": "PrePics\\Views\\Home\\gallery.cshtml",
@@ -571,7 +683,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 35,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "D:\\PrePics\\PrePics\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "PrePics\\Views\\Home\\Privacy.cshtml",
@@ -583,55 +695,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\PrePics\\PrePics\\Areas\\Identity\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "PrePics\\Areas\\Identity\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\PrePics\\PrePics\\Areas\\Identity\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "PrePics\\Areas\\Identity\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-04T16:39:07.628Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 36,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\PrePics\\PrePics\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "PrePics\\Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\PrePics\\PrePics\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "PrePics\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAANUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAM8AAAAAAAAAAIBZwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-23T14:53:56.134Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 37,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\PrePics\\PrePics\\Models\\User.cs",
               "RelativeDocumentMoniker": "PrePics\\Models\\User.cs",
               "ToolTip": "D:\\PrePics\\PrePics\\Models\\User.cs",
               "RelativeToolTip": "PrePics\\Models\\User.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAABEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwBcAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-04T16:14:32.73Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "D:\\PrePics\\PrePics\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "PrePics\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "D:\\PrePics\\PrePics\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "PrePics\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-04T16:34:44.466Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 38,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\PrePics\\PrePics\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "PrePics\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
@@ -643,7 +731,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 39,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "D:\\PrePics\\PrePics\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "PrePics\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -655,19 +743,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\PrePics\\PrePics\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "PrePics\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\PrePics\\PrePics\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "PrePics\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFQAAABSAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-23T14:53:59.65Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 40,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\PrePics\\PrePics\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "PrePics\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
@@ -679,19 +755,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "D:\\PrePics\\PrePics\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "PrePics\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "D:\\PrePics\\PrePics\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "PrePics\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-04T15:58:48.508Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 41,
               "Title": "Login.cshtml.cs",
               "DocumentMoniker": "D:\\PrePics\\PrePics\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
               "RelativeDocumentMoniker": "PrePics\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
@@ -703,7 +767,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 42,
               "Title": "sigin.css",
               "DocumentMoniker": "D:\\PrePics\\PrePics\\wwwroot\\css\\sigin.css",
               "RelativeDocumentMoniker": "PrePics\\wwwroot\\css\\sigin.css",
@@ -715,7 +779,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 43,
               "Title": "site.css",
               "DocumentMoniker": "D:\\PrePics\\PrePics\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "PrePics\\wwwroot\\css\\site.css",
@@ -727,7 +791,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 44,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\PrePics\\PrePics\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "PrePics\\Views\\_ViewStart.cshtml",
@@ -739,7 +803,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 45,
               "Title": "Error.cshtml",
               "DocumentMoniker": "D:\\PrePics\\PrePics\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "PrePics\\Views\\Shared\\Error.cshtml",
@@ -751,19 +815,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\PrePics\\PrePics\\Program.cs",
-              "RelativeDocumentMoniker": "PrePics\\Program.cs",
-              "ToolTip": "D:\\PrePics\\PrePics\\Program.cs",
-              "RelativeToolTip": "PrePics\\Program.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAewCQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T05:45:57.516Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 46,
               "Title": "ForgotPassword.cshtml.cs",
               "DocumentMoniker": "D:\\PrePics\\PrePics\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
               "RelativeDocumentMoniker": "PrePics\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
@@ -775,7 +827,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 47,
               "Title": "Logout.cshtml.cs",
               "DocumentMoniker": "D:\\PrePics\\PrePics\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
               "RelativeDocumentMoniker": "PrePics\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
@@ -787,7 +839,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 48,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\PrePics\\PrePics\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "PrePics\\Views\\_ViewImports.cshtml",
@@ -799,7 +851,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 49,
               "Title": "20240504160712_init.cs",
               "DocumentMoniker": "D:\\PrePics\\PrePics\\Migrations\\20240504160712_init.cs",
               "RelativeDocumentMoniker": "PrePics\\Migrations\\20240504160712_init.cs",
@@ -811,31 +863,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\PrePics\\PrePics\\appsettings.json",
-              "RelativeDocumentMoniker": "PrePics\\appsettings.json",
-              "ToolTip": "D:\\PrePics\\PrePics\\appsettings.json",
-              "RelativeToolTip": "PrePics\\appsettings.json",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAkAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-04T15:50:08.649Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 50,
               "Title": "Register.cshtml.cs",
               "DocumentMoniker": "D:\\PrePics\\PrePics\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeDocumentMoniker": "PrePics\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "ToolTip": "D:\\PrePics\\PrePics\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeToolTip": "PrePics\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBZwBUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-04T15:54:02.684Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 51,
               "Title": "signup.css",
               "DocumentMoniker": "D:\\PrePics\\PrePics\\wwwroot\\css\\signup.css",
               "RelativeDocumentMoniker": "PrePics\\wwwroot\\css\\signup.css",
@@ -847,7 +887,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 52,
               "Title": "PrePics.csproj",
               "DocumentMoniker": "D:\\PrePics\\PrePics\\PrePics.csproj",
               "RelativeDocumentMoniker": "PrePics\\PrePics.csproj",
@@ -856,18 +896,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-04-25T06:01:09.453Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "script.js",
-              "DocumentMoniker": "D:\\PrePics\\PrePics\\wwwroot\\js\\script.js",
-              "RelativeDocumentMoniker": "PrePics\\wwwroot\\js\\script.js",
-              "ToolTip": "D:\\PrePics\\PrePics\\wwwroot\\js\\script.js",
-              "RelativeToolTip": "PrePics\\wwwroot\\js\\script.js",
-              "ViewState": "AQIAABkAAAAAAAAAAAAowDUAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-04-25T05:58:58.371Z"
             }
           ]
         }

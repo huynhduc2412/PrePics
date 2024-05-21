@@ -80,7 +80,8 @@
 
             <div class="header-social-links">
                 <ul style="list-style-type: none;">
-                    <li><a class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Login"><img src="/assets/img/user.svg"></a></li>
+                    @* <li><a class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Login"> <img src="/assets/img/user.svg"></a></li> *@
+                    <li><partial name="_LoginPartial" /></li>
                 </ul>
                 @* <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
                 <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
